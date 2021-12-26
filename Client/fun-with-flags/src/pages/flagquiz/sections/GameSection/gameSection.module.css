@@ -1,0 +1,33 @@
+.gameSection {
+    background-color: #fff;
+    border-radius: 5px;
+    text-align: center;
+    min-height: 80vh;
+    position: relative;
+    padding: 20px;
+    height: auto;
+}
+
+.alignWrapper {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 60%;
+}
+
+/* For Iphone 5 SE and Galaxy Fold*/
+@media only screen and (max-width: 320px) {
+    .alignWrapper {
+        max-height: 80%;
+        position: relative;
+        top: 0;
+        left: 0;
+        transform: none;
+        margin: auto;
+        width: 80%;
+    }
+}
+
+

@@ -1,0 +1,10 @@
+.flagsForm, .errorCol {
+    text-align: center;
+}
+
+.greeting {
+    margin: 5px 0;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #fff;
+}

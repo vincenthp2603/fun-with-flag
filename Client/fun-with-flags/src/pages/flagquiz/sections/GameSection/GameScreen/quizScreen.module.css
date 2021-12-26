@@ -1,0 +1,13 @@
+.quizQuestion {
+    margin-bottom: 50px;
+}
+
+.questionImg {
+    max-width: 50%;
+    margin-bottom: 50px;
+    border: solid #000 1px;
+}
+
+.progressBar {
+    margin-bottom: 40px;
+}

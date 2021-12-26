@@ -1,0 +1,29 @@
+.navLink {
+    text-decoration: none;
+    color: gray;
+    height: 100%;
+    margin: 0 10px;
+}
+
+.navLink:hover, .activeNavLink {
+    color: #fff;
+}
+
+.mobileNavBtn {
+    display: none;
+}
+
+@media only screen and (max-width: 576px) {
+    .navButtons {
+        display: none;
+    }
+    
+    .mobileNavBtn {
+        display: block;
+    }
+}
+
+
+
+
+

@@ -1,0 +1,34 @@
+.hallOfFame {
+    background-color: #fff;
+    border-radius: 5px;
+    text-align: center;
+    padding: 20px 5px;
+}
+
+.record {
+    position: relative;
+    width: 100%;
+    display: inline-block;
+    padding: 5px 10px;
+    border: solid 1px #d9d9d9;
+    border-radius: 2px;
+}
+
+.recordDetail {
+    display: block;
+}
+
+.recordDetail p {
+    font-weight: bold;
+    padding: 0;
+    margin: 0;
+}
+
+.nameSpan {
+    float: left;
+    text-align: left;
+}
+
+.scoreSpan {
+    float: right;
+}

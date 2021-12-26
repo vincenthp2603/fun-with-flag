@@ -1,0 +1,26 @@
+.greeting {
+    margin: 20px 0;
+    text-align: center;
+    color: #fff;
+}
+
+.authForm {
+    border: solid 1px #d9d9d9;
+    border-radius: 5px;
+    padding: 20px 0;
+    margin-top: 20px;
+    box-shadow: 2px 2px 3px gray;
+    background-color: #fff;
+}
+
+.btnCol, .errCol {
+    text-align: center;
+}
+
+.errCol {
+    color: red;
+}
+
+button {
+    margin: 0 5px;
+}

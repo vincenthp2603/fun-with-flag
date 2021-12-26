@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_URL": "mongodb+srv://vietbutnotadmin:26031997@cluster0.jj7rt.mongodb.net/fun-with-flag?retryWrites=true&w=majority",
+        "JWT_SECRET": "sdrthrdrhttsmysupersecretfunwithflagssdrthrdrhtts",
+        "PORT": 8080
+    }
+}

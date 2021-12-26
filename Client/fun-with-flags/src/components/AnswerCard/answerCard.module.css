@@ -1,0 +1,17 @@
+.answerCard {
+    margin-bottom: 40px;
+    width: 100%;
+    float: left;
+    padding: 0;
+}
+
+.answerCard img {
+    width: 100%;
+}
+
+.answerCard:hover {
+    cursor: pointer;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4));
+    color: #fff;
+    filter: grayscale(50%);
+}

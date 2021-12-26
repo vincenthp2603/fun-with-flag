@@ -1,0 +1,8 @@
+.invalid {
+    border-color: red;
+}
+
+.invalid:focus {
+    outline: 1px red solid;
+    border: 1px red solid;
+}
