@@ -48,4 +48,7 @@ mongoose.connect(process.env.MONGO_URL)
         //     console.log('Client connected!');
         // })
     })
-    .catch(err => console.log(err));
+    .catch(err => {
+        //console.log(`MONGO_URL: ${process.env.MONGO_URL}`);
+        console.log(err)
+    });

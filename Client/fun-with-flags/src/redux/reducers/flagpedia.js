@@ -3,7 +3,7 @@ import * as ACTION_TYPES  from '../actiontypes';
 const initialState = {
     name: "Vietnam",
     capital: "Hanoi",
-    flagUrl: "http://res.cloudinary.com/vcloudinary/image/upload/v1632745330/m9qkepo2xbuhp5qi0bz1.gif",
+    flagUrl: "https://res.cloudinary.com/vcloudinary/image/upload/v1727461005/vz9g1vjj0lcd5g0l0ahm.gif",
     loading: false,
     error: false,
     errorMessage: ""
